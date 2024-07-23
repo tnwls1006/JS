@@ -54,7 +54,7 @@ console.log(ive)
  * 
  * 사람이 보는대로 입력 가능
  * 
- * Escatping Character
+ * Escaping Character
  * 1. newLine : \n
  * 2. tab : \t
  * 3. 백슬래시를 String으로 표현하고싶다면 두번 입력 
@@ -140,7 +140,7 @@ console.log('-----------------------------')
 /**
  * Object Type
  * Map
- * Key:value 의 쌍으로 이우러져있다.
+ * Key:value 의 쌍으로 이루어져있다.
  */
 
 const dictionary = {
@@ -184,7 +184,7 @@ console.log(typeof iveMembersArray)
 
 /**
  * static typing : 변수를 선언할 떄 어떤 타입의 변수를 선언할 지 명시
- * C
+ *  C
  * dynamic typing : 변수의 타입을 명시적으로 선언하지 않고 값에 의해 타입을 추론
- * JS
+ *  JS
  */

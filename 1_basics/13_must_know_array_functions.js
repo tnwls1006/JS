@@ -56,7 +56,7 @@ iveMemvbers =[
 ]
 
 console.log('----------concat()---------------')
-// concat() : pish()랑 같은 역활을 하는듯 하나
+// concat() : push()랑 같은 역활을 하는듯 하나
 // 새로운 Array를 만들어서 반환해서 기존 Array를 변경하는지 안하는지 차이가 있다.
 console.log(iveMemvbers.concat('코드'))
 console.log(iveMemvbers)
