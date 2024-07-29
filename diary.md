@@ -13,3 +13,5 @@
 ##### 24/07/22 - (3-3)immutable_object 부터 (3-5)prototype_chain까지
 
 ##### 24/07/23 - 1_basics 정리,복습
+
+##### 24/07/29 - (3-6)scope 부터 
