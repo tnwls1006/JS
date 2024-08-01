@@ -14,4 +14,6 @@
 
 ##### 24/07/23 - 1_basics 정리,복습
 
-##### 24/07/29 - (3-6)scope 부터 8_2_execution_context 까지
+##### 24/07/29 - (3-6)scope 부터 (8_2)execution_context 까지
+
+##### 24/08/01 - (3-9)closure 부터 (4-2)callback_hell_and_promise까지
