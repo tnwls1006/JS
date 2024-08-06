@@ -17,3 +17,5 @@
 ##### 24/07/29 - (3-6)scope 부터 (8_2)execution_context 까지
 
 ##### 24/08/01 - (3-9)closure 부터 (4-2)callback_hell_and_promise까지
+
+##### 24/08/06 (4-3)async_await
